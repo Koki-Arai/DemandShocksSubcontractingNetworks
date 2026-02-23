@@ -1,0 +1,23 @@
+# Data files (not redistributable)
+data/*.csv
+data/*.xlsx
+data/*.dta
+
+# Generated outputs
+docs/*.tex
+docs/*.pdf
+docs/*.png
+docs/*.xlsx
+
+# R
+.Rhistory
+.RData
+*.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
